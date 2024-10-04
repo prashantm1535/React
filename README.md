@@ -1,2 +1,2 @@
-# React-Redux
-Learning React &amp; Redux.
+# React
+Learning React.
